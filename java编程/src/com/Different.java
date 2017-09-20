@@ -8,7 +8,7 @@ public class Different {
          System.out.println("如果我是"+args+"并且"+t+"岁");
      }
      public static void main(String[] args){
-         f("liyaxian",98);
+         f("jhjk",98);
          f(45,"sddsfg");
 
      }
